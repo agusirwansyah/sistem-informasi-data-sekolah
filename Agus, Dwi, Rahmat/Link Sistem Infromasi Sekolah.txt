@@ -1,0 +1,9 @@
+Nama	: Agus Irwansyah (Nim. 16.22.0361)
+	  Dwi Ramadhani (Nim. 16.22.0403)
+	  Rahmat 	             (Nim. 16.22.0427)
+
+Kelas	: Open Source 5
+
+Link Sistem Informasi Sekolah 
+
+https://github.com/agusirwansyah/sistem-informasi-data-sekolah.git
